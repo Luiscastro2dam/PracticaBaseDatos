@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PracticaAcesoDatos</string>
+    //menu de barra
+    <string name="m1_anadir">Añadir Contacto</string>
+    <string name="m2_OrdenarMayor">Ordenar de Ascendente</string>
+    <string name="m3_OrdenarMenor">Ordenar Descendiente</string>
+    <string name="m4_guar">Guardar</string>
+    <string name="m5_sincro">Sincronizar</string>
+    <string name="m6_info">Informacion Sincronizacíon</string>
+    //hint
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    //agregar contactos
+    <string name="agregar">Agregar</string>
+    <string name="salir">Salir</string>
+    //editar
+    <string name="btModificar">Modificar</string>
+    <string name="btsubirFoto">Cambiar Foto</string>
+</resources>

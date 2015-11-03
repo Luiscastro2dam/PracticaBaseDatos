@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/anadir"
+        android:title="@string/m1_anadir"
+        android:orderInCategory="2" />
+    <item
+        android:id="@+id/asc"
+        android:title="@string/m2_OrdenarMayor"
+        android:orderInCategory="2" />
+    <item
+        android:id="@+id/descend"
+        android:title="@string/m3_OrdenarMenor"
+        android:orderInCategory="2" />
+    <item
+        android:id="@+id/guardar"
+        android:title="@string/m4_guar"
+        android:orderInCategory="2" />
+    <item
+        android:id="@+id/sincronizar"
+        android:title="@string/m5_sincro"
+        android:orderInCategory="2" />
+    <item
+        android:id="@+id/informacionSincronizar"
+        android:title="Informacion Sincronizar"
+        android:orderInCategory="2" />
+</menu>
